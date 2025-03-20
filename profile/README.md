@@ -42,6 +42,3 @@ Pragma, Postobón, Longevo, Prami, Savant, Cadena, Journals & Authors...Y muchas
 
 [Microsoft y Nodo se unen para democratizar el acceso a la IA en el país](https://es.nodoeafit.com/ailab/)
 
-# ¡Sé parte del futuro digital!
-
-[Postúlate a la beca](https://es.nodoeafit.com/beca-futuro-digital-fraternidad/): Aprende de tecnología sin salir de tu municipio.
